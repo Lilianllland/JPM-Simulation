@@ -1,0 +1,7 @@
+import numpy as np
+
+#difference test
+diff_random_walk = np.diff(random_walk, n=1)
+
+#ADF test : used for test stationarity
+
